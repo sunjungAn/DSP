@@ -1,4 +1,4 @@
 # DSP
-reference : Think DSP
+reference : Think DSP(ver 1.0.9)
 
-1. Sound & Signal
+chap01. Sound & Signal
