@@ -6,3 +6,8 @@ chap01. Sound & Signal
 
 example01.wave_analysis
 > perfect_pitch 분석(spectrum, spectrogram, autocorrelation 이용)
+
+## 2-D 
+image_processing1[https://github.com/sunjungAn/DSP/blob/master/image_processing1.ipynb]
+
+
